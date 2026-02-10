@@ -162,7 +162,7 @@ Key points:
 - We do NOT sell your data to third parties
 - You can delete your data at any time
 
-**Read the full Privacy Policy:** [Link to PRIVACY_POLICY.md]
+**Read the full Privacy Policy:** [Privacy Policy](PRIVACY_POLICY)
 
 ### 5.2 Data Backup
 

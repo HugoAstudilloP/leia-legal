@@ -162,7 +162,7 @@ Puntos clave:
 - NO vendemos tus datos a terceros
 - Puedes eliminar tus datos en cualquier momento
 
-**Lee la Política de Privacidad completa:** [Link a POLITICA_DE_PRIVACIDAD.md]
+**Lee la Política de Privacidad completa:** [Política de Privacidad](POLITICA_DE_PRIVACIDAD) (Español)
 
 ### 5.2 Respaldo de Datos
 
