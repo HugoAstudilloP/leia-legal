@@ -4,10 +4,10 @@ Welcome to the legal documentation for the Leia pet health management app.
 
 ## Documents
 
-- [Privacy Policy](privacy) - How we collect, use, and protect your data
-- [Terms of Service](terms) - Rules and guidelines for using Leia
-- [Política de Privacidad](privacy#política-de-privacidad---leia) (Español)
-- [Términos de Servicio](terms#términos-de-servicio---leia) (Español)
+- [Privacy Policy](PRIVACY_POLICY) - How we collect, use, and protect your data
+- [Terms of Service](TERMS_OF_SERVICE) - Rules and guidelines for using Leia
+- [Política de Privacidad](POLITICA_DE_PRIVACIDAD) (Español)
+- [Términos de Servicio](TERMINOS_DE_SERVICIO) (Español)
 
 ---
 
